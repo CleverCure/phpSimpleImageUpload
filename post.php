@@ -1,6 +1,6 @@
 <?php
 define('IMAGES_DIR', './images/'); // 画像を保存するディレクトリの指定
-define('IMAGE_MAX_WIDTH', 600); // アップロード画像画像の最大幅の指定
+define('IMAGE_MAX_WIDTH', 600); // アップロード画像の最大幅の指定
 
 session_start();
 
